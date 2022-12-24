@@ -26,5 +26,26 @@
     "long": 140.45023,
     "title": "New South Wales",
     "data": 300
+  },
+  {
+    "_id": "5",
+    "lat": 18.849112,
+    "long": 18.531613,
+    "title": "Africa",
+    "data": 3500
+  },
+  {
+    "_id": "6",
+    "lat": 42.867912,
+    "long": -109.035688,
+    "title": "USA",
+    "data": 700
+  },
+  {
+    "_id": "7",
+    "lat": 36.308209,
+    "long": -221.203407,
+    "title": "Japan",
+    "data": 300
   }
 ]
