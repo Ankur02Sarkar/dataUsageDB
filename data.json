@@ -3,14 +3,14 @@
     "_id": "1",
     "lat": 22.5726,
     "long": 88.3639,
-    "title": "India",
+    "title": "Kolkata",
     "data": 5500
   },
   {
     "_id": "2",
     "lat": 30.17932,
     "long": 56.26657,
-    "title": "Somewhere",
+    "title": "Iran",
     "data": 3500
   },
   {
@@ -24,7 +24,7 @@
     "_id": "4",
     "lat": -29.78981,
     "long": 140.45023,
-    "title": "Somewhere",
+    "title": "New South Wales",
     "data": 300
   }
 ]
