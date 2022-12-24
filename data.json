@@ -10,25 +10,25 @@
   {
     "_id": "2",
     "desc": "good",
-    "lat": 47.088063,
-    "long": 14.58300781,
+    "lat": 30.17932,
+    "long": 56.26657,
     "title": "Somewhere",
-    "data": 5500
+    "data": 3500
   },
   {
     "_id": "3",
     "desc": "good",
-    "lat": 47.088063,
-    "long": 14.58300781,
+    "lat": -15.97385,
+    "long": 32.96337,
     "title": "Somewhere",
-    "data": 5500
+    "data": 700
   },
   {
     "_id": "4",
     "desc": "good",
-    "lat": 47.088063,
-    "long": 14.58300781,
+    "lat": -29.78981,
+    "long": 140.45023,
     "title": "Somewhere",
-    "data": 5500
+    "data": 300
   }
 ]
