@@ -1,15 +1,13 @@
 [
   {
     "_id": "1",
-    "desc": "Kolkata (formerly Calcutta) is the capital of India's West Bengal state.",
     "lat": 22.5726,
     "long": 88.3639,
-    "title": "Kolkata",
+    "title": "India",
     "data": 5500
   },
   {
     "_id": "2",
-    "desc": "good",
     "lat": 30.17932,
     "long": 56.26657,
     "title": "Somewhere",
@@ -17,7 +15,6 @@
   },
   {
     "_id": "3",
-    "desc": "good",
     "lat": -15.97385,
     "long": 32.96337,
     "title": "Somewhere",
@@ -25,7 +22,6 @@
   },
   {
     "_id": "4",
-    "desc": "good",
     "lat": -29.78981,
     "long": 140.45023,
     "title": "Somewhere",
